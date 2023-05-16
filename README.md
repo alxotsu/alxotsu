@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/images/2ae78a42a4d715ce209ee3ee38d3e72f/tenor.gif">
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-Archick-K&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=alxotsu&style=flat-square&color=blue" alt=""/>
 
 My name is Alexander (Otsu) Serov. I'm a backend-developer. My main language is ![](https://img.shields.io/badge/python-3-blue).
 
