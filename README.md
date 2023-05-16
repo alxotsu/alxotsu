@@ -1,16 +1,42 @@
-### Hi there 👋
+# About me
 
-<!--
-**alxotsu/alxotsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://media.tenor.com/images/2ae78a42a4d715ce209ee3ee38d3e72f/tenor.gif">
+</div>
 
-Here are some ideas to get you started:
+My name is Alexander (Otsu) Serov. I'm a backend-developer. My main language is ![](https://img.shields.io/badge/python-3-blue).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition  I have basic knowledge in HTML+CSS+JS.
+
+My languages:
+- Russian
+- English B1
+
+## my experience
+I have more than 1.5 years of commercial development experience. During this time, I mastered the following stack:
+
+Main technologies:
+- Django REST Framework
+- Flask
+- CherryPy
+- TelegramAPI
+- web3
+
+Support technologies:
+- SQL and ORMs
+  - PostgreSQL
+  - MySQL
+  - Django ORM
+  - SQLAlchemy
+  - Tornado
+  - alembic
+- VCS
+  - Git
+  - Github
+  - Gitlab
+- Docker and docker-compose
+- Redis
+- Celery
+- Swagger (Manual & auto)
+
+The lists are being complementing...)
