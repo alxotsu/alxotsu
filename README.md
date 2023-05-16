@@ -4,6 +4,8 @@
 <img src="https://media.tenor.com/images/2ae78a42a4d715ce209ee3ee38d3e72f/tenor.gif">
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=your-github-Archick-K&style=flat-square&color=blue" alt=""/>
+
 My name is Alexander (Otsu) Serov. I'm a backend-developer. My main language is ![](https://img.shields.io/badge/python-3-blue).
 
 In addition  I have basic knowledge in HTML+CSS+JS.
@@ -40,3 +42,16 @@ Support technologies:
 - Swagger (Manual & auto)
 
 The lists are being complementing...)
+
+## contacts
+If you want to cooperate with me, you can contact me at any time through any of these channels:
+- <a href="https://t.me/alxotsu">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+- <a href="https://vk.com/alxotsu">
+    <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white" alt="VK"/>
+  </a>
+- <a href="mailto:workunit1368@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red" alt="Gmail"/> - workunit1368@gmail.com
+  </a>
+Everywhere, except gmail, I answer almost instantly (if I'm not sleeping 😅 )
