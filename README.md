@@ -10,6 +10,10 @@ My name is Alexander (Otsu) Serov. I'm a backend-developer. My main language is 
 
 In addition  I have basic knowledge in HTML+CSS+JS.
 
+My languages using:
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxotsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 My languages:
 - Russian
 - English B1
