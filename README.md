@@ -19,7 +19,7 @@ My languages:
 - English B1
 
 ## my experience
-I have more than 1.5 years of commercial development experience. During this time, I mastered the following stack:
+I have more than 2 years of commercial development experience. During this time, I mastered the following stack:
 
 Main technologies:
 - Django REST Framework
@@ -27,6 +27,7 @@ Main technologies:
 - CherryPy
 - TelegramAPI
 - web3
+- asyncio
 
 Support technologies:
 - SQL and ORMs
@@ -44,6 +45,9 @@ Support technologies:
 - Redis
 - Celery
 - Swagger (Manual & auto)
+- Mosquitto
+
+I have basic knowleges about linux commands, udev, services and bash.
 
 The lists are being complementing...)
 
